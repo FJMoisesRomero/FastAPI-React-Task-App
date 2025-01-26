@@ -21,9 +21,9 @@ FastAPI-React-Task-App is a public project that demonstrates a login system and 
 ## How to Run the Project
 ### Backend
 1. Navigate to the `backend` directory:
-   ```bash
+```bash
    cd backend
-   ```
+```
 2. Create and activate a virtual environment:
 ```bash
   python -m venv venv
@@ -31,24 +31,24 @@ FastAPI-React-Task-App is a public project that demonstrates a login system and 
 ```
 3. Install dependencies:
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 4. Run the FastAPI server:
 ```bash
-uvicorn main:app --reload
+  uvicorn main:app --reload
 ```
 ### Frontend
 1. Navigate to the frontend directory:
 ```bash
-cd frontend
+  cd frontend
 ```
 2. Install dependencies:
 ```bash
-npm install
+  npm install
 ```
 3. Start the development server:
 ```bash
-npm start
+  npm run dev
 ```
 
 ## Images 📸
