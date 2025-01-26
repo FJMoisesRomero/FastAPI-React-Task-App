@@ -52,7 +52,7 @@ FastAPI-React-Task-App is a public project that demonstrates a login system and 
 ```
 
 ## Images 📸
-![capture](images/0.png)
-![capture](images/1.png)
-![capture](images/2.png)
-![capture](images/3.png) 
+![capture](images2/0.png)
+![capture](images2/1.png)
+![capture](images2/2.png)
+![capture](images2/3.png) 
